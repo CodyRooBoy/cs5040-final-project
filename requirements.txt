@@ -1,5 +1,4 @@
 ipykernel
-jupyter
 matplotlib
 numpy
 pyvista
